@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://anthony-981.github.io/anthony.github.io/atom.xml" rel="self"/>
+  <link href="https://anthony.github.io/atom.xml" rel="self"/>
   
-  <link href="https://anthony-981.github.io/anthony.github.io/"/>
+  <link href="https://anthony.github.io/"/>
   <updated>2024-12-01T03:50:04.969Z</updated>
-  <id>https://anthony-981.github.io/anthony.github.io/</id>
+  <id>https://anthony.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://anthony-981.github.io/anthony.github.io/pages/hello-world.html"/>
-    <id>https://anthony-981.github.io/anthony.github.io/pages/hello-world.html</id>
+    <link href="https://anthony.github.io/pages/hello-world.html"/>
+    <id>https://anthony.github.io/pages/hello-world.html</id>
     <published>2024-12-01T03:50:57.606Z</published>
     <updated>2024-12-01T03:50:04.969Z</updated>
     
